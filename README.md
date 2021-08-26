@@ -1,2 +1,2 @@
-# prog1_2021_fall
-Ez a 2021-es őszi progkurzus kommunikációs platformja. Itt beszélhetitek meg a feladott videókat, kérdezhettek a háziról és egyéb, kurzushoz kapcsolódó témákról.
+## prog1_2021_fall
+This repo contains all materials for the 2021 fall course in Programming and Theory of Algorithms.
